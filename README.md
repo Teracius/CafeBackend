@@ -18,4 +18,4 @@ https://documenter.getpostman.com/view/343088/TW74j5T2
 
 Remember to run the coman "npm install" before you run the program with "npm start".
 
-For execute the API you can use Postman, all the data is saved in a cluster that I have in mongodb.com, if you cant test de API because postman cant reach teh database, contact me to i.teran60@gmail.com to turn on the cluster again.
+For execute the API you can use Postman and MongoDB Compass to check the data, all the data is saved in a cluster that I have in mongodb.com, if you cant test de API because postman cant reach teh database, contact me to i.teran60@gmail.com to turn on the cluster again.
